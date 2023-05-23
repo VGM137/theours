@@ -1,0 +1,87 @@
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "1588707824966": {
+          "type": "menu",
+          "settings": {
+            "title": "",
+            "show_title_on_desktop": true,
+            "menu": "shop",
+            "size": 0,
+            "rows_limit": 0
+          }
+        },
+        "1588707829149": {
+          "type": "menu",
+          "settings": {
+            "title": "",
+            "show_title_on_desktop": true,
+            "menu": "information",
+            "size": 0,
+            "rows_limit": 0
+          }
+        },
+        "1588707831350": {
+          "type": "menu",
+          "settings": {
+            "title": "",
+            "show_title_on_desktop": true,
+            "menu": "order",
+            "size": 0,
+            "rows_limit": 0
+          }
+        },
+        "1588707855446": {
+          "type": "subscription",
+          "settings": {
+            "title": "Newsletter subscription",
+            "paragraph": "Sign up for Shella updates to receive information about new arrivals, future events and specials.",
+            "placeholder": "Enter Your Email Address",
+            "button_text": "SUBSCRIBE!"
+          }
+        },
+        "1588707863814": {
+          "type": "social_media",
+          "settings": {
+            "title": "Follow us",
+            "show_facebook": true,
+            "show_twitter": false,
+            "show_instagram": true,
+            "show_pinterest": true,
+            "show_youtube": false,
+            "show_behance": false,
+            "show_skype": false
+          }
+        },
+        "1588707870746": {
+          "type": "copyright",
+          "settings": {
+            "page_content": "include-footer-copyright-2"
+          }
+        }
+      },
+      "block_order": [
+        "1588707824966",
+        "1588707829149",
+        "1588707831350",
+        "1588707855446",
+        "1588707863814",
+        "1588707870746"
+      ],
+      "settings": {
+        "type": "2",
+        "style": "1",
+        "show_logo": false,
+        "show_button_back_to_top": true,
+        "enable_fixed": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
